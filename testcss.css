@@ -9,7 +9,25 @@ html {
 img{
   display: inline-block;
 }
-.pictures img{
+.art img{
+    padding: 1px;
+    border:1px solid black;
+    width: 20%;
+    height:250px;
+    margin:18px;
+    /*display: inline-block;*/
+  
+}
+.english img{
+    padding: 1px;
+    border:1px solid black;
+    width: 20%;
+    height:250px;
+    margin:18px;
+    /*display: inline-block;*/
+  
+}
+.mathandscience img{
     padding: 1px;
     border:1px solid black;
     width: 20%;
