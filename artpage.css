@@ -4,7 +4,7 @@ img{
 .pic1 img {
     padding: 1px;
     border:1px solid black;
-    width: 50%;
+    width: 30%;
     height:250px;
     margin:18px;
     position:absolute;
@@ -15,7 +15,7 @@ img{
 .pic2 img {
     padding: 1px;
     border:1px solid black;
-    width: 50%;
+    width: 30%;
     height:250px;
     margin:18px;
     position:absolute;
