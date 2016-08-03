@@ -61,3 +61,10 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+html { 
+  background: url(http://minimedi.sk/domains/5h474d9u6p/images/background_image.jpg?1457267417) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
