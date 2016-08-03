@@ -9,7 +9,7 @@ html {
 img{
   display: inline-block;
 }
-.art {
+.art img{
     padding: 1px;
     border:1px solid black;
     width: 20%;
@@ -21,7 +21,7 @@ img{
     /*display: inline-block;*/
   
 }
-.english {
+.english img{
     padding: 1px;
     border:1px solid black;
     width: 20%;
@@ -33,7 +33,7 @@ img{
     /*display: inline-block;*/
   
 }
-.mathandscience {
+.mathandscience img{
     padding: 1px;
     border:1px solid black;
     width: 20%;
