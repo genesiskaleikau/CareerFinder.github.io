@@ -23,8 +23,8 @@ img{
 }
 #artword {
   position:absolute;
-    top: 200px;
-    left: 100px;
+    top: 400px;
+    left: 300px;
   
 }
 .english img{
@@ -41,8 +41,8 @@ img{
 }
 #englishword{
   position:absolute;
-    top: 200px;
-    left: 500px;
+    top: 400px;
+    left: 700px;
 }
 .mathandscience img{
     padding: 1px;
@@ -58,8 +58,8 @@ img{
 }
 #mathandscienceword {
   position:absolute;
-    top: 200px;
-    left: 900px;
+    top: 400px;
+    left: 1100px;
 }
 
 
