@@ -21,6 +21,12 @@ img{
     /*display: inline-block;*/
   
 }
+#artword {
+  position:absolute;
+    top: 200px;
+    left: 100px;
+  
+}
 .english img{
     padding: 1px;
     border:1px solid black;
@@ -33,6 +39,11 @@ img{
     /*display: inline-block;*/
   
 }
+#englishword{
+  position:absolute;
+    top: 200px;
+    left: 500px;
+}
 .mathandscience img{
     padding: 1px;
     border:1px solid black;
@@ -44,6 +55,11 @@ img{
     left: 900px;
     /*display: inline-block;*/
   
+}
+#mathandscienceword {
+  position:absolute;
+    top: 200px;
+    left: 900px;
 }
 
 
