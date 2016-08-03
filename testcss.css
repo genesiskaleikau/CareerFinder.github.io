@@ -24,6 +24,9 @@ img{
     width: 20%;
     height:250px;
     margin:18px;
+    position:absolute;
+    top: 450px;
+    left: 500px;
     /*display: inline-block;*/
   
 }
