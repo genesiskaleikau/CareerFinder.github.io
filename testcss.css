@@ -15,7 +15,7 @@ html {
   
 }
 .right {
-    position: absolute;
+    float: right;
     right: 0px;
     width: 300px;
 }
