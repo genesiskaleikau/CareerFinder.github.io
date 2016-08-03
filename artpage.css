@@ -1,3 +1,6 @@
+img{
+  display: inline-block;
+}
 .pic1 {
     padding: 1px;
     border:1px solid black;
