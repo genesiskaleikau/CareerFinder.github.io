@@ -6,4 +6,11 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-
+.pictures img{
+    padding: 1px;
+    border:1px solid black;
+    width: 40%;
+    height:250px;
+    margin:18px;
+  
+}
