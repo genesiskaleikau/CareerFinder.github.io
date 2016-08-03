@@ -1,7 +1,7 @@
 img{
   display: inline-block;
 }
-.pic1 {
+.pic1 img {
     padding: 1px;
     border:1px solid black;
     width: 20%;
@@ -12,7 +12,7 @@ img{
     left: 100px;
 }
 
-.pic2 {
+.pic2 img {
     padding: 1px;
     border:1px solid black;
     width: 20%;
