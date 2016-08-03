@@ -6,6 +6,9 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+img{
+  display: inline-block;
+}
 .pictures img{
     padding: 1px;
     border:1px solid black;
@@ -15,7 +18,5 @@ html {
     /*display: inline-block;*/
   
 }
-img{
-  display: inline-block;
-}
+
 
