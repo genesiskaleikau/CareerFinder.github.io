@@ -24,7 +24,7 @@ img{
 #artword {
   position:absolute;
     top: 400px;
-    left: 300px;
+    left: 200px;
   
 }
 .english img{
@@ -42,7 +42,7 @@ img{
 #englishword{
   position:absolute;
     top: 400px;
-    left: 700px;
+    left: 600px;
 }
 .mathandscience img{
     padding: 1px;
@@ -59,7 +59,7 @@ img{
 #mathandscienceword {
   position:absolute;
     top: 400px;
-    left: 1100px;
+    left: 1000px;
 }
 
 
