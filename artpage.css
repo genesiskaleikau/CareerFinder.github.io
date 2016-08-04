@@ -11,6 +11,11 @@ img{
     top: 75px;
     left: 100px;
 }
+#words1 {
+  position:absolute;
+    top: 400px;
+    left: 235px;
+}
 
 .pic2 img {
     padding: 1px;
@@ -21,4 +26,9 @@ img{
     position:absolute;
     top: 75px;
     left: 800px;
+}
+#words2 {
+  position:absolute;
+    top: 400px;
+    left: 835px;
 }
