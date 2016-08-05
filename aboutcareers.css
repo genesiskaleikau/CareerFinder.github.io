@@ -75,12 +75,20 @@ html {
     top: 200px;
     left: 800px;
 }
+.architecture img{
+    width: 100px;
+    height: 100px;    
+}
 .arts{
     position: absolute;
     top:450px;
     left: 400px;
     background-color:#BC8F8F;
     width:20%;
+}
+.arts img{
+    width: 100px;
+    height: 100px;
 }
 .Business{
     position: absolute;
@@ -89,12 +97,20 @@ html {
     background-color:#BC8F8F;
     width:20%;
 }
+.Business img{
+    width: 100px;
+    height: 100px;
+}
 .education {
     position:absolute;
     top: 700px;
     left: 25px;
     background-color:#BC8F8F;
     width:20%;
+}
+.education img{
+    width: 100px;
+    height: 100px;    
 }
 .engineering {
     position: absolute;
@@ -103,12 +119,20 @@ html {
     background-color:#BC8F8F;
     width:20%;
 }
+.engineering img {
+    width: 100px;
+    height: 100px;    
+}
 .government {
     position:absolute;
     top:450px;
     left:800px;
     background-color:#BC8F8F;
     width:20%;
+}
+.government img{
+    width: 100px;
+    height: 100px;    
 }
 .medicine {
     position:absolute;
@@ -134,5 +158,5 @@ html {
     left:400px;
     background-color:#BC8F8F;
     width:20%;
-    
 }
+
