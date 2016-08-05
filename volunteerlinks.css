@@ -3,9 +3,9 @@ volunteerlinks
 <head>
     <link rel = "stylesheet" href = "volunteerlinks.css">
 </head>
-=======
+
 a:link, a:visited {
-    background-color: black;
+    /*background-color: black;*/
     color: white;
     padding: 14px 25px;
     text-align: center; 
