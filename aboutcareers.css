@@ -68,3 +68,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+.architecture{
+    background-color:#BC8F8F;
+    width:20%;
+}
