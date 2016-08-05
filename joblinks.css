@@ -68,3 +68,98 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+.architecture{
+    background-color:#BC8F8F;
+    width:20%;
+    position:absolute;
+    top: 200px;
+    left: 800px;
+}
+.architecture img{
+    width: 100px;
+    height: 100px;    
+}
+.arts{
+    position: absolute;
+    top:450px;
+    left: 400px;
+    background-color:#BC8F8F;
+    width:20%;
+}
+.arts img{
+    width: 100px;
+    height: 100px;
+}
+.Business{
+    position: absolute;
+    top:200px;
+    left:400px;
+    background-color:#BC8F8F;
+    width:20%;
+}
+.Business img{
+    width: 100px;
+    height: 100px;
+}
+.education {
+    position:absolute;
+    top: 700px;
+    left: 25px;
+    background-color:#BC8F8F;
+    width:20%;
+}
+.education img{
+    width: 100px;
+    height: 100px;    
+}
+.engineering {
+    position: absolute;
+    top:700px;
+    left:400px;
+    background-color:#BC8F8F;
+    width:20%;
+}
+.engineering img {
+    width: 100px;
+    height: 100px;    
+}
+.government {
+    position:absolute;
+    top:450px;
+    left:800px;
+    background-color:#BC8F8F;
+    width:20%;
+}
+.government img{
+    width: 100px;
+    height: 100px;    
+}
+.medicine {
+    position:absolute;
+    top:200px;
+    left:25px;
+    background-color:#BC8F8F;
+    width:20%;
+}
+.medicine img{
+    width: 100px;
+    height: 100px;
+}
+.science {
+    position:absolute;
+    top:450px;
+    left: 25px;
+    background-color:#BC8F8F;
+    width:20%;
+}
+.science img{
+    width:100px;
+    height: 100px;
+}
+.communications{
+    position:absolute;
+    top:700px;
+    left:400px;
+    background-color:#BC8F8F;
+    width:20%;
+}
