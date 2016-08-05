@@ -78,13 +78,14 @@ html {
 .arts{
     position: absolute;
     top:200px;
-    left: 300px;
+    left: 66%px;
     background-color:#BC8F8F;
     width:20%;
 }
 .Business{
     position: absolute;
     top:200px;
+    left:400px;
     background-color:#BC8F8F;
     width:20%;
 }
