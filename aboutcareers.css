@@ -152,6 +152,10 @@ html {
     background-color:#BC8F8F;
     width:20%;
 }
+.science img{
+    width:100px;
+    height: 100px;
+}
 .communications{
     position:absolute;
     top:700px;
