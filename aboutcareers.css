@@ -78,7 +78,7 @@ html {
 .arts{
     position: absolute;
     top:200px;
-    left: 66%px;
+    left: 66%;
     background-color:#BC8F8F;
     width:20%;
 }
@@ -90,16 +90,23 @@ html {
     width:20%;
 }
 .education {
+    position:absolute;
+    top: 700px;
+    left: 66%;
     background-color:#BC8F8F;
     width:20%;
 }
 .engineering {
     position: absolute;
+    top:700px;
+    left:400px;
     background-color:#BC8F8F;
     width:20%;
 }
 .government {
-
+    position:absolute;
+    top:700px;
+    left:800px;
     background-color:#BC8F8F;
     width:20%;
 }
