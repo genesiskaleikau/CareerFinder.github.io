@@ -125,10 +125,11 @@ html {
 }
 .government {
     position:absolute;
-    top:450px;
+    top:200px;
     left:800px;
     background-color:#BC8F8F;
     width:20%;
+    height: 50%;
 }
 .government img{
     width: 100px;
