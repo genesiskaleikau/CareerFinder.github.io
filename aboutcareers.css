@@ -71,6 +71,9 @@ html {
 .architecture{
     background-color:#BC8F8F;
     width:20%;
+    position:absolute;
+    top: 100px;
+    left: 100px;
 }
 .arts{
     background-color:#BC8F8F;
