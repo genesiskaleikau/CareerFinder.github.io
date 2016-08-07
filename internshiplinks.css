@@ -69,7 +69,7 @@ html {
   background-size: cover;
 }
 .architecture{
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
     position:absolute;
     top: 200px;
@@ -83,7 +83,7 @@ html {
     position: absolute;
     top:450px;
     left: 400px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
 .arts img{
@@ -94,7 +94,7 @@ html {
     position: absolute;
     top:200px;
     left:400px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
 .Business img{
@@ -105,7 +105,7 @@ html {
     position:absolute;
     top: 700px;
     left: 25px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
 .education img{
@@ -116,7 +116,7 @@ html {
     position: absolute;
     top:700px;
     left:400px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
 .engineering img {
@@ -127,7 +127,7 @@ html {
     position:absolute;
     top:450px;
     left:800px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
 .government img{
@@ -138,7 +138,7 @@ html {
     position:absolute;
     top:200px;
     left:25px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
 .medicine img{
@@ -149,7 +149,7 @@ html {
     position:absolute;
     top:450px;
     left: 25px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
 .science img{
@@ -160,6 +160,6 @@ html {
     position:absolute;
     top:700px;
     left:400px;
-    background-color:#BC8F8F;
+    background-color:#FFA07A;
     width:20%;
 }
