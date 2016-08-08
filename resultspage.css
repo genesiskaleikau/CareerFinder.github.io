@@ -30,6 +30,10 @@
     /*top: 200px;*/
     /*left: 800px;*/
   }
+  .result1 img{
+      width: 100px;
+      height: 100px;
+  }
     .result2{
     background-color:#BC8F8F;
     width:20%;
