@@ -1,10 +1,7 @@
 img {
   display: inline-block;
-
-}
-div{
   padding:1px;
   margin:1px;
-  width:32%;
+  width:10px;
   height:10px;
 }
