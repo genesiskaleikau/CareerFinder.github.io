@@ -23,16 +23,23 @@
 /*    padding: 20px;*/
 /*    margin: 40px;*/
 /*}*/
-  .result1{
-    background-color:#BC8F8F;
-    width:20%;
-    position:absolute;
-    top: 200px;
-    left: 800px;
-  }
+  /*.result1{*/
+  /*  background-color:#BC8F8F;*/
+  /*  width:20%;*/
+  /*  position:absolute;*/
+  /*  top: 200px;*/
+  /*  left: 800px;*/
+  /*}*/
   .result1 img{
-      width: 100px;
-      height: 100px;
+      /*width: 100px;*/
+      /*height: 100px;*/
+     
+    padding: 1px;
+    border:1px solid black;
+    width: 40%;
+    height:250px;
+    margin:18px;
+}
   }
   /*  .result2{*/
   /*  background-color:#BC8F8F;*/
