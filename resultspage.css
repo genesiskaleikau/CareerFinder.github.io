@@ -1,0 +1,9 @@
+img {
+  display: inline-block;
+}
+div{
+  padding:1px;
+  margin:1px;
+  width:32;
+  height:10px;
+}
