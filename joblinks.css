@@ -92,7 +92,7 @@ html {
 }
 .Business{
     position: absolute;
-    top:200px;
+    top:950px;
     left:400px;
     background-color:#BC8F8F;
     width:20%;
@@ -129,7 +129,7 @@ html {
     left:800px;
     background-color:#BC8F8F;
     width:20%;
-    height: 75%;
+    height: 70%;
 }
 .government img{
     width: 100px;
@@ -137,7 +137,7 @@ html {
 }
 .medicine {
     position:absolute;
-    top:200px;
+    top:950px;
     left:25px;
     background-color:#BC8F8F;
     width:20%;
