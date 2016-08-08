@@ -72,6 +72,12 @@
   /*  top: 200px;*/
   /*  left: 800px;*/
   /*}*/
+  .button {
+    position:absolute;
+    top: 25px;
+    left: 950px;
+    /*width:20%;*/
+}
   html { 
   background: url(http://www.christianimages123.com/wp-content/uploads/2014/06/blue-green-modern-background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
