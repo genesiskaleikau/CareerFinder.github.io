@@ -9,3 +9,4 @@ img {
   width:20%;
   height:20%;
 }
+img.expand { width: 10em; }
