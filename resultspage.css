@@ -73,3 +73,10 @@
   /*  top: 200px;*/
   /*  left: 800px;*/
   /*}*/
+  html { 
+  background: url(http://static.tumblr.com/a8a4c8c543b45093f4059e0fe9f31004/j3fd7ac/xHIo3olqh/tumblr_static_agfqvn8jw1s0s880c8g0k8k8w.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
