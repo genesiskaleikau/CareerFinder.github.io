@@ -76,9 +76,9 @@ html {
     transform: rotate(90deg);
 }
 .genesis {
-     background-color:#BC8F8F;
-    width:20%;
+     background-color:black;
+    width:5%;
     position:absolute;
-    top: 50px;
+    top: 100px;
     left: 250px;
 }
