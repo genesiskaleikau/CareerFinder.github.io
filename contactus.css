@@ -87,4 +87,6 @@ html {
     background-color:black;
     width:10%;
     height: 15%;
+    position: absolute;
+    top: 150px;
 }
