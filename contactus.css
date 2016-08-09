@@ -90,3 +90,8 @@ html {
     position: absolute;
     top: 150px;
 }
+.picture {
+    position:absolute;
+    top: 150px;
+    left: 500px;
+}
