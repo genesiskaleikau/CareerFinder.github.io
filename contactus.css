@@ -75,3 +75,10 @@ html {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+.genesis {
+     background-color:#BC8F8F;
+    width:20%;
+    position:absolute;
+    top: 50px;
+    left: 250px;
+}
