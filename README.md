@@ -1,4 +1,3 @@
-# newFinalProject
 #Career Finder
 #Stiff Triangles
 ##The problem is many people, whether they are young or not, have a difficult time finding a career or potential fields they could be interested in. Because of this, they often don't know what to search for them when they are curious about the various career fields in the world.
